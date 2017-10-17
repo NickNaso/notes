@@ -18,6 +18,11 @@
         * Little migration guide to pass from Nan::ObjectWrap
     * AsyncWorker (How to create async function)
         * Little migration guid to pass from Nan::AsyncWorker
+    * How to create a module
+        * Register a module
+        * binding.gyp configuration (Link to some useful resources because sometimes it's very hard to find the right settings)
+        * Generator for scaffolding a project of native addon
+        * Useful reources tools that help to be more productive 
     * Conversion tool (How to use and which types of tasks it does for us)
     * News and Updates
 
