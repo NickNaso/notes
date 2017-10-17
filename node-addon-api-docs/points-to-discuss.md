@@ -7,6 +7,7 @@
 
     * Installation and usage 
     * What is and how to use Environments
+    * Scope and EsapableScope 
     * What is and how to use Value
     * Creates a JS value from a C++ primitive
     * Creates C++ value from JS value
