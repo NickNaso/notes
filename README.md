@@ -1,2 +1,1 @@
-# notes
-All useful notes about my works
+# Personal notes  about my works and projects
