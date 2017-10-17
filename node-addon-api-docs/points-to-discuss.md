@@ -24,6 +24,7 @@
         * binding.gyp configuration (Link to some useful resources because sometimes it's very hard to find the right settings)
         * Generator for scaffolding a project of native addon
         * Useful reources tools that help to be more productive 
+        * Link to the examples (Consider the creation of some complex examples)
     * Conversion tool (How to use and which types of tasks it does for us)
     * News and Updates
 
